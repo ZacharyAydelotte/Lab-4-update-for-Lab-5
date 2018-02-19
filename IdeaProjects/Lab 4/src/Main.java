@@ -21,6 +21,6 @@ public class Main {
             counterExp += 1; //increase to next base 16 exponent
             counter += -1; //countdown from right to left hex digits
         }
-        System.out.print("Your number is " + result + " in decimal");
+        System.out.print("Your number is " + result + " in decimal"); //Greetings from GitHub!
     }
 }
